@@ -47,7 +47,7 @@
 
 ### 📌 Featured Projects
 
-👉 *(Top 2-3 projects will be added here soon)*
+👉 
 
 ---
 
