@@ -55,9 +55,15 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Slanur0108&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Slanur0108&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Slanur0108&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Slanur0108&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Slanur0108&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
 ---
 
 ### 📫 Contact
