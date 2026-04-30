@@ -54,6 +54,7 @@ OpenWeather API verilerini PySpark ile işleyen ve otomatik görsel raporlar sun
 👉 📈 [Smart Crypto Tracker & Analyzer](https://github.com/Slanur0108/Crypto_Smart_Tracker)
 
 Kripto varlıkları analiz eden, alım/satım tavsiyeleri üreten ve profesyonel günlükleme (logging) yapan takip botu.
+
 ---
 
 ### 📊 GitHub Stats
